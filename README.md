@@ -17,7 +17,12 @@ MySQL를 사용하기 위한 라이브러리
                 :
                 :
         mysql = MySQL(
-            driver_path="chromedriver "./driver/chromedriver",
+            host="ip-address or dns",
+            port=port number,
+            user="connect user id",
+            passwd="user passwd",
+            database="database name"
+            charset="utf8'
                 :
         )
                 :
