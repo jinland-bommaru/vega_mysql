@@ -23,6 +23,6 @@ setup(
         'PyMySQL >= 1.0.2',
         'sshtunnel >= 0.4.0',
     ],
-    package_data={"web_driver": ["*.txt"]},
+    package_data={"vega_mysql": ["*.txt"]},
     include_package_data=True,
 )
