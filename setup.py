@@ -18,7 +18,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.8.5',
+    python_requires='>=3.8.4',
     install_requires=[
         'PyMySQL >= 1.0.2',
         'sshtunnel >= 0.4.0',
